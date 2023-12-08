@@ -29,7 +29,7 @@ Dados do usuário:
 #include <string.h>
 #include <stdlib.h>
 
-#define QuantUsuarios 10
+#define QuantUsuarios 1000
 
 typedef struct{
     int status; //1-ATIVO  0-INATIVO
